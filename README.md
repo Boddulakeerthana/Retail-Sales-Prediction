@@ -11,7 +11,7 @@ This project builds a **Machine Learning model** to predict **Retail Sales Amoun
 ## 🚀 Live Application
 
 👉 Live Demo:  
-https://retail-sales-prediction-k73fav9ndrbu...
+https://retail-sales-prediction-k73fav9ndrbuchmgdapkx9.streamlit.app/
 
 ---
 
