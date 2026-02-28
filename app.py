@@ -3,7 +3,8 @@ import pickle
 import numpy as np
 
 # Load model
-model = pickle.load(open("retail_model.pkl", "rb"))
+import joblib
+model = joblib.load("retail_model.pkl")
 
 st.title("🛒 Retail Sales Prediction App")
 st.write("Enter customer and product details to predict sales.")
